@@ -1,0 +1,22 @@
+export const birthdayMessages = [
+  "Parabéns, [nome]! 🎉 Que o seu dia seja tão especial quanto você!",
+  "Feliz aniversário, [nome]! 🎂 Que este ano seja repleto de realizações e alegrias!",
+  "Muitas felicidades, [nome]! 🥳 Que seus sonhos se realizem hoje e sempre!",
+  "Parabéns, [nome]! 🎈 Que você tenha um dia incrível e um ano cheio de amor!",
+  "Feliz vida, [nome]! 🎊 Que essa nova fase venha com muita saúde e sucesso!",
+  "Feliz aniversário, [nome]! 🎁 Que seus dias sejam repletos de luz e boas energias!",
+  "Que o seu dia, [nome], seja repleto de sorrisos e momentos inesquecíveis! 🎉",
+  "Muitas felicidades no seu dia, [nome]! 🥂 Aproveite ao máximo cada momento!",
+  "Feliz aniversário, [nome]! 🌟 Que seu caminho seja sempre iluminado por coisas boas!",
+  "Parabéns pelo seu dia, [nome]! 🎉 Que você continue a brilhar e espalhar alegria!",
+  "Felicidades, [nome]! 🎈 Que hoje e sempre você seja rodeado de pessoas queridas!",
+  "Feliz aniversário, [nome]! 🎂 Que seu coração se encha de amor e gratidão neste dia!",
+  "Parabéns, [nome]! 🎉 Que todos os seus sonhos se realizem e que a felicidade esteja sempre ao seu lado!",
+  "Feliz aniversário, [nome]! 🎊 Que você tenha um ano espetacular pela frente!",
+  "Parabéns pelo seu dia, [nome]! 🎈 Que a vida te presenteie com tudo o que há de melhor!",
+  "Feliz aniversário, [nome]! 🎉 Que as conquistas deste ano sejam apenas o começo de muitas outras!",
+  "Muitas felicidades, [nome]! 🎂 Que cada momento de hoje seja inesquecível!",
+  "Parabéns, [nome]! 🎁 Que você continue sendo essa pessoa incrível que todos adoram!",
+  "Felicidades, [nome]! 🥳 Que o seu dia seja repleto de sorrisos e amor!",
+  "Feliz aniversário, [nome]! 🎈 Que você tenha um ano cheio de paz, saúde e prosperidade!"
+];
